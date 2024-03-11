@@ -2,10 +2,10 @@
 
 Tool: Animate.css
 
----
+3/11/24
 
-X/X/X:
-* Text
+
+* While learning my tool i figured finding a tutorial video 
 
 X/X/X:
 * Text
