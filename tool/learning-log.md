@@ -9,9 +9,9 @@ Tool: Animate.css
 
 * I tried out different animations like bounce, flash, and jack in the box.
 
-* As I am going through the video and messing around with animations, when I use one's that are more than one word they wont work. I then looked back at the website where they hold all the animations ans see that animations like jack in the box are supposed to be written like jackInTheBox with a capital at the beggining of everyword.
+* As I am going through the video and messing around with animations in [jsbin](https://jsbin.com/dahicidebo/edit?html,css,output), when I use one's that are more than one word they wont work. I then looked back at the website where they hold all the animations ans see that animations like jack in the box are supposed to be written like jackInTheBox with a capital at the beggining of everyword.
 
-* A question I still have is
+* A question I still have is can I have the animations go off in a row meaning one after the other?
 
 
 <!--
