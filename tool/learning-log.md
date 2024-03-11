@@ -7,7 +7,11 @@ Tool: Animate.css
 
 * While learning my tool I figured finding a [tutorial video](https://www.youtube.com/watch?v=VzbBcVRquYA) would help me understand my tool better since this was new material. The video gave a brief rundown going over the animate.css website and how to use it.
 
-* I tried out different animations like bounce
+* I tried out different animations like bounce, flash, and jack in the box.
+
+* As I am going through the video and messing around with animations, when I use one's that are more than one word they wont work. I then looked back at the website where they hold all the animations ans see that animations like jack in the box are supposed to be written like jackInTheBox with a capital at the beggining of everyword.
+
+* A question I still have is
 
 
 <!--
