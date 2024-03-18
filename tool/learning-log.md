@@ -13,6 +13,20 @@ Tool: Animate.css
 
 * A question I still have is can I have the animations go off in a row meaning one after the other?
 
+---
+
+
+# Tool Learning Log
+
+Tool: Animate.css
+
+* While i was tinkering with my too further I used the [animate.css](https://animate.style/) website to explore my tool further and see what else I can do to better my understanding. This website gave a couple tutorials on how to use different layouts.
+
+* I tried this layout called key frames which provides a flexible way to use Animate.css with your current projects without having to refactor your HTML code.
+
+* As I am using the kayframes for some reason the animation wasnt doing anything until I realized I had the wrong animations matching eachother so once I fixed it the animation worked.
+
+* A question I still have is, is it better to use HTML or Keyframes.
 
 <!--
 * Links you used today (websites, videos, etc)
