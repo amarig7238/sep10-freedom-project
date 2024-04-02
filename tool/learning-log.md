@@ -34,7 +34,9 @@ Tool: Animate.css
 
 4/2/24
 
-*
+*While tinkering with my tool using the [animate.css](https://animate.style/) website to continue my exploration of my tool and see what else i can use to develop my knowledge of it. This website is very usefule when it comes to finding components of animate.css.
+
+*I tried these classes called 
 
 
 
