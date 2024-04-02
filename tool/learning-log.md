@@ -34,13 +34,13 @@ Tool: Animate.css
 
 4/2/24
 
-*While tinkering with my tool using the [animate.css](https://animate.style/) website to continue my exploration of my tool and see what else i can use to develop my knowledge of it. This website is very usefule when it comes to finding components of animate.css.
+* While tinkering with my tool using the [animate.css](https://animate.style/) website to continue my exploration of my tool and see what else i can use to develop my knowledge of it. This website is very usefule when it comes to finding components of animate.css.
 
-*I tried these classes called delay classes. These are used to add delays directly on the element's class attribute. These can make an animation slower or faster.
+* I tried these classes called delay classes. These are used to add delays directly on the element's class attribute. These can make an animation slower or faster.
 
-*When i was using them i kept increasing the number but at some point it just stoped. I then realized there was a cap on how big the delay number can be.
+* When i was using them i kept increasing the number but at some point it just stoped. I then realized there was a cap on how big the delay number can be.
 
-*A question I have is what is the smallest number you can put for the delay.
+* A question I have is what is the smallest number you can put for the delay.
 
 
 
