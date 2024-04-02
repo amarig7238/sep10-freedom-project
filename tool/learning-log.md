@@ -28,6 +28,17 @@ Tool: Animate.css
 
 * A question I still have is, is it better to use HTML or Keyframes.
 
+# Tool Learning Log
+
+Tool: Animate.css
+
+4/2/24
+
+*
+
+
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
