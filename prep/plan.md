@@ -5,7 +5,7 @@
 * [Desktop](https://wireframe.cc/CHjprm)
 
 ## Colors
-* #ADD8E6 #000000 #
+* #ADD8E6 #000000 #FFFFFF
 
 
 ## Fonts
