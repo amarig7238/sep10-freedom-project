@@ -10,5 +10,10 @@ div.col-md-4 {
 }
 
 .row {
-    padding
+    padding-top: 50px;
+}
+
+div.col-md-4 {
+    padding-left: 50px;
+    padding-right: 50px;
 }
