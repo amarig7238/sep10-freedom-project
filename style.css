@@ -2,7 +2,4 @@ p {
     color: #F4DC8C ;
 }
 
-p1 {
-    border
-
-}
+p.solid {border-style: solid;}
