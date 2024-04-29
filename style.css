@@ -23,3 +23,6 @@ p1 {
 h1 {
     color: #FFFFFF;
 }
+ol.list-group list-group-numbered {
+    background-color: #ADD8E6;
+}
