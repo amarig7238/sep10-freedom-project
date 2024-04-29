@@ -23,6 +23,6 @@ p1 {
 h1 {
     color: #FFFFFF;
 }
-li.list-group-item d-flex justify-content-between align-items-start {
+.list-group list-group-numbered {
     background-color: #ADD8E6;
 }
