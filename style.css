@@ -3,17 +3,15 @@ p {
 }
 
 
-
 div.col-md-4 {
     border-style: solid;
     border-width: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 .row {
     padding-top: 50px;
 }
 
-div.col-md-4 {
-    padding-left: 50px;
-    padding-right: 50px;
-}
+
