@@ -11,5 +11,5 @@ Topic: Dance
   * [image text](image URL)
 
 ## Part B: possible future technology
-* Idea
+* Voice activated choreo creator
   * Detail
