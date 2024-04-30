@@ -29,3 +29,9 @@ h2 {
 .list-group-item {
     background-color: #ADD8E6;
 }
+
+* {
+    font-family: "Roboto-bold", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
