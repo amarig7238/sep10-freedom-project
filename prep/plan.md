@@ -12,10 +12,16 @@
 * [Roboto](https://fonts.google.com/specimen/Roboto)
 
 ## Timeline
-
+* Monday
+* Tuesday
+* Wednesday
+* Thursday
+* Friday
 #### MVP
 
-* Task/Timeline
+* Create nav bar for the title
+* Use my tool on the title to make it do an animation
+* 
 
 ---
 
