@@ -20,7 +20,7 @@ Tool: Animate.css
 
 Tool: Animate.css
 
-* While i was tinkering with my too further I used the [animate.css](https://animate.style/) website to explore my tool further and see what else I can do to better my understanding. This website gave a couple tutorials on how to use different layouts.
+* While i was tinkering with my tool further I used the [animate.css](https://animate.style/) website to explore my tool further and see what else I can do to better my understanding. This website gave a couple tutorials on how to use different layouts.
 
 * I tried this layout called key frames which provides a flexible way to use Animate.css with your current projects without having to refactor your HTML code.
 
