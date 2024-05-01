@@ -1,5 +1,5 @@
 # Entry 5
-##### 4/30/24
+##### 4/15/24
 
 ## What I learned about my tool
 
@@ -7,7 +7,7 @@ I learned that Animate.css is a library of ready-to-use, cross-browser animation
 
 ## How I learned my tool & what I tried to make
 
-Learning my tool was too hard since the tool isn't super complicated to grasp. I used tutorial videos that i would try to find on youtube anytime i was stuck on a peice of code. They were helpful for everytime I was tinkering or learning on my own. As I am going through the video and messing around with animations in [jsbin](https://jsbin.com/dahicidebo/edit?html,css,output), when I use one's that are more than one word they wont work. I then looked back at the website where they hold all the animations ans see that animations like jack in the box are supposed to be written like jackInTheBox with a capital at the beggining of everyword. While i was tinkering with my tool further I used the [animate.css](https://animate.style/) website to explore my tool further and see what else I can do to better my understanding. This website gave a couple tutorials on how to use different layouts. As I am using the kayframes for some reason the animation wasnt doing anything until I realized I had the wrong animations matching eachother so once I fixed it the animation worked. I tried these classes called delay classes. These are used to add delays directly on the element's class attribute. These can make an animation slower or faster. When i was using them i kept increasing the number but at some point it just stoped. I then realized there was a cap on how big the delay number can be. 
+Learning my tool was too hard since the tool isn't super complicated to grasp. I used tutorial videos that I would try to find on YouTube anytime I was stuck on a piece of code. They were helpful for every time I was tinkering or learning on my own. As I am going through the video and messing around with animations in [jsbin](https://jsbin.com/dahicidebo/edit?html,css,output), when I use ones that are more than one word they won't work. I then looked back at the website where they hold all the animations and saw that animations like Jack in the box are supposed to be written like jackInTheBox with a capital letter at the beginning of every word except jack. While I was tinkering with my tool further I used the [animate.css](https://animate.style/) website to explore my tool further and see what else I can do to better my understanding. This website gave a couple of tutorials on how to use different layouts. As I was using the keyframes for some reason the animation wasn't doing anything until I realized I had the wrong animations matching each other so once I fixed it the animation worked. I tried these classes called delay classes. These are used to add delays directly to the element's class attribute. These can make an animation slower or faster. When I was using them I kept increasing the number but at some point, it just stopped. I then realized there was a cap on how big the delay number could be.
 
 [Previous](entry04.md) | [Next](entry06.md)
 
