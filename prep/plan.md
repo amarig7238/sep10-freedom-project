@@ -31,7 +31,7 @@
 
 #### Beyond MVP
 
+[*] Make the website more responsive and possibly add the context above everything.
 [*] Add a bit more to the drop down description.
 [*] The descriptions in the slideshow could be more responsive to smaller screens.
-[*] Make the website more responsive and possibly add the context above everything.
 [*] Make it have more space for information and photos and don’t put the informations on the photos.
